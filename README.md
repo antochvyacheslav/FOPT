@@ -1,5 +1,5 @@
 # FOPT
-Fiber-Optic Transmission Networks
+Tutorial on the Codes Used in Fiber-Optic Transmission Networks.
 
 This project was created in 2010 in Delphi 2007.
 
