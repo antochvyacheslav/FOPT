@@ -11,3 +11,13 @@ This project was created in 2010 in Delphi 2007.
 2 Постановка задачи
 
 Исходные данные к программе курсового проекта: предусмотреть изучение стыковых и линейных кодов ВОСП в составе: NRZ, RZ, CMI, MCMI, Миллера, Манчестерского, ЧПИ (AMI), МЧПИ (HDB-3), 5B6B (с элементами программирования). Условие задачи – составить программу по предложенным исходным данным. 
+
+Скриншоты:
+
+![01](https://user-images.githubusercontent.com/85184536/124907983-7cde7c00-dff1-11eb-9868-7dc26f527070.jpg)
+
+![02](https://user-images.githubusercontent.com/85184536/124908047-8e278880-dff1-11eb-92d8-6bd417da50e8.jpg)
+
+![03](https://user-images.githubusercontent.com/85184536/124908059-9089e280-dff1-11eb-98ac-710a06391f18.jpg)
+
+![04](https://user-images.githubusercontent.com/85184536/124908069-9253a600-dff1-11eb-8af6-058daad03c89.jpg)
